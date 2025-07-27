@@ -1,2 +1,2 @@
-# NewHorizonReact
+# NewHorizonHTml Projects
 React Projects
